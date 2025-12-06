@@ -92,22 +92,19 @@ Tech Stack: Node.js • MongoDB
 > Replace `Repo1` and `Repo2` with your actual repo names.
 
 <p align="center">
-  
+  <a href="https://github.com/viswanadhanbalu22/Repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viswanadhanbalu22&repo=Repo1&theme=tokyonight" />
+  </a>
   <a href="https://github.com/viswanadhanbalu22/Repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=viswanadhanbalu22&repo=Repo2&theme=tokyonight" />
   </a>
 </p>
 
----
 
-# 🌙 Dark Mode Support  
-GitHub automatically displays this README in **dark or light mode** based on the user's settings.
-
----
 
 # 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viswanadhanbalu22&show_icons=true&theme=tokyonight" height="160" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viswanadhanbalu22&theme=tokyonight" height="160" />
 </p>
 
@@ -120,4 +117,3 @@ GitHub automatically displays this README in **dark or light mode** based on the
 
 ---
 
-⭐ **If you like my work, please star my repositories!**
