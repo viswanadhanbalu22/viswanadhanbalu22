@@ -87,18 +87,7 @@ Tech Stack: Node.js • MongoDB
 
 ---
 
-# 📌 Pinned Repository Cards  
 
-> Replace `Repo1` and `Repo2` with your actual repo names.
-
-<p align="center">
-  <a href="https://github.com/viswanadhanbalu22/Repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viswanadhanbalu22&repo=Repo1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/viswanadhanbalu22/Repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viswanadhanbalu22&repo=Repo2&theme=tokyonight" />
-  </a>
-</p>
 
 
 
