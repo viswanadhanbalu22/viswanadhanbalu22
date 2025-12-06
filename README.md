@@ -10,9 +10,7 @@
 
 ## 🔥 About Me  
 Experienced **Full Stack Developer (6+ years)** specializing in building scalable ERP, POS & enterprise applications.  
-Expert in **Angular, Node.js, Laravel, CakePHP, REST APIs, AWS S3, MongoDB, MySQL**.  
-
-I focus on creating applications that are **high-performance, secure, stable, and user-friendly**.
+Strong skills in **Angular, Node.js, Laravel, CakePHP, REST APIs, AWS S3, MongoDB, MySQL**.
 
 ---
 
@@ -60,81 +58,23 @@ I focus on creating applications that are **high-performance, secure, stable, an
 
 ---
 
-# 🧩 Featured Projects (With Images, GIFs & Live Links)
-
-<table>
-<tr>
-<td width="50%" align="center">
+# 🧩 Featured Projects (Clean Version – No Links, No Images)
 
 ### ⭐ Diveshop360  
 Multi-tenant SaaS platform for dive shop operations.  
-Tech: Angular • Node.js • MongoDB  
-
-🌐 **Live Demo:**  
-https://diveshop360.com/
-
-**Preview:**  
-<img src="https://diveshop360.com/assets/images/logo.png" width="75%" />
-
-**GIF Demo:**  
-<img src="https://media.giphy.com/media/Dh5q0sShxgp13Dwr1V/giphy.gif" width="90%" />
-
-<br><br>
-<a href="https://diveshop360.com/">
-  <img src="https://img.shields.io/badge/OPEN%20DIVESHOP360-blue?style=for-the-badge" />
-</a>
-
-</td>
-
-<td width="50%" align="center">
+Tech Stack: Angular • Node.js • MongoDB  
 
 ### ⭐ Zigma ERP  
-ERP system for Inventory, HR, Production, Compliance & Workflow.  
-Tech: PHP • MySQL  
+Enterprise ERP system handling HR, Inventory, Production & Workflow.  
+Tech Stack: PHP • MySQL  
 
-🌐 **Live Demo:**  
-https://erp.zigmaglobal.in/index.php
+### ⭐ Zigma Payroll  
+Automated payroll system with statutory compliance features.  
+Tech Stack: PHP • MySQL  
 
-**Preview:**  
-<img src="https://erp.zigmaglobal.in/img/logo.png" width="75%" />
-
-**GIF Demo:**  
-<img src="https://media.giphy.com/media/2ikwIgNIKVmvI/giphy.gif" width="90%" />
-
-<br><br>
-<a href="https://erp.zigmaglobal.in/index.php">
-  <img src="https://img.shields.io/badge/OPEN%20ZIGMA%20ERP-green?style=for-the-badge" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-### ⭐ Additional Projects
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### **Zigma Payroll**
-Automated payroll + statutory compliance (PF/ESI/TDS).  
-Tech: PHP • MySQL  
-<a href="#"><img src="https://img.shields.io/badge/VIEW-PROJECT-orange?style=for-the-badge" /></a>
-
-</td>
-
-<td width="50%" align="center">
-
-### **Background Job System**
-RabbitMQ-based queue processing using Node.js.  
-Tech: Node.js • MongoDB  
-<a href="#"><img src="https://img.shields.io/badge/VIEW-PROJECT-purple?style=for-the-badge" /></a>
-
-</td>
-</tr>
-</table>
+### ⭐ Background Job System  
+Queue-based task processing using RabbitMQ + Node.js.  
+Tech Stack: Node.js • MongoDB  
 
 ---
 
@@ -142,14 +82,14 @@ Tech: Node.js • MongoDB
 
 ### **B.Tech – Information Technology**  
 **Velalar College of Engineering and Technology, Erode**  
-📅 *2014 – 2018*  
+📅 2014 – 2018  
 📊 CGPA: **6.43**
 
 ---
 
 # 📌 Pinned Repository Cards  
 
-> ⚠️ Replace `Repo1` and `Repo2` with your real GitHub repo names.
+> Replace `Repo1` and `Repo2` with your actual repo names.
 
 <p align="center">
   <a href="https://github.com/viswanadhanbalu22/Repo1">
@@ -163,8 +103,7 @@ Tech: Node.js • MongoDB
 ---
 
 # 🌙 Dark Mode Support  
-GitHub automatically shows your README in **Dark / Light mode** based on the user's settings.  
-No configuration needed — this README is fully dark-mode ready.
+GitHub automatically displays this README in **dark or light mode** based on the user's settings.
 
 ---
 
