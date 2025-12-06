@@ -3,19 +3,20 @@
 <!-- ================================ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Viswanadhan+Balu;Full+Stack+Developer;Angular+|+Node.js+|+Laravel+|+CakePHP;MongoDB+|+MySQL;6%2B+Years+Experience;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Viswanadhan+Balu;Full+Stack+Developer;Angular+|+Node.js+|+Laravel+|+CakePHP;MongoDB+|+MySQL;6%2B+Years+Experience;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 ---
 
 ## 🔥 About Me  
-Experienced **Full Stack Developer (6+ years)** specialized in designing, building & scaling enterprise apps.  
-Skilled in **Angular, Node.js, Laravel, CakePHP, REST APIs, AWS S3, MongoDB, MySQL**.  
-I love solving real business problems with clean architecture & smooth automation.
+Experienced **Full Stack Developer (6+ years)** specializing in building scalable ERP, POS & enterprise applications.  
+Expert in **Angular, Node.js, Laravel, CakePHP, REST APIs, AWS S3, MongoDB, MySQL**.  
+
+I focus on creating applications that are **high-performance, secure, stable, and user-friendly**.
 
 ---
 
-# 🚀 Tech Stack & Skill Badges  
+# 🚀 Tech Stack & Badges  
 
 ### **Frontend**
 <p>
@@ -47,47 +48,63 @@ I love solving real business problems with clean architecture & smooth automatio
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
 # 🎯 Skills Icons Section  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,nodejs,express,php,laravel,cakephp,mysql,mongodb,aws,git,github,vscode" />
 </p>
 
 ---
 
-# 🧩 Featured Projects (With GIF Previews + Cards)
+# 🧩 Featured Projects (With Images, GIFs & Live Links)
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### ⭐ **Diveshop360**
-Multi-tenant SaaS platform for dive shops.  
+### ⭐ Diveshop360  
+Multi-tenant SaaS platform for dive shop operations.  
 Tech: Angular • Node.js • MongoDB  
 
+🌐 **Live Demo:**  
+https://diveshop360.com/
+
 **Preview:**  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hxYnZ6eG0ydDg4bTltbTU3NzQzOTZrOWc1bG01a3ZvMTltcG5ldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13Dwr1V/giphy.gif" width="90%" />
+<img src="https://diveshop360.com/assets/images/logo.png" width="75%" />
+
+**GIF Demo:**  
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13Dwr1V/giphy.gif" width="90%" />
 
 <br><br>
-<a href="#"><img src="https://img.shields.io/badge/VIEW%20PROJECT-blue?style=for-the-badge" /></a>
+<a href="https://diveshop360.com/">
+  <img src="https://img.shields.io/badge/OPEN%20DIVESHOP360-blue?style=for-the-badge" />
+</a>
 
 </td>
 
 <td width="50%" align="center">
 
-### ⭐ **Zigma ERP**
-Enterprise ERP for HR, Inventory, Production.  
+### ⭐ Zigma ERP  
+ERP system for Inventory, HR, Production, Compliance & Workflow.  
 Tech: PHP • MySQL  
 
+🌐 **Live Demo:**  
+https://erp.zigmaglobal.in/index.php
+
 **Preview:**  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U3aW1pZ2VuYmN4a2c5M2ZrdTA5ZzJ5MHZkczV2emM5cW80MThsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2ikwIgNIKVmvI/giphy.gif" width="90%" />
+<img src="https://erp.zigmaglobal.in/img/logo.png" width="75%" />
+
+**GIF Demo:**  
+<img src="https://media.giphy.com/media/2ikwIgNIKVmvI/giphy.gif" width="90%" />
 
 <br><br>
-<a href="#"><img src="https://img.shields.io/badge/VIEW%20PROJECT-green?style=for-the-badge" /></a>
+<a href="https://erp.zigmaglobal.in/index.php">
+  <img src="https://img.shields.io/badge/OPEN%20ZIGMA%20ERP-green?style=for-the-badge" />
+</a>
 
 </td>
 </tr>
@@ -102,7 +119,7 @@ Tech: PHP • MySQL
 <td width="50%" align="center">
 
 ### **Zigma Payroll**
-Automated payroll + compliance (PF/ESI/TDS).  
+Automated payroll + statutory compliance (PF/ESI/TDS).  
 Tech: PHP • MySQL  
 <a href="#"><img src="https://img.shields.io/badge/VIEW-PROJECT-orange?style=for-the-badge" /></a>
 
@@ -111,7 +128,7 @@ Tech: PHP • MySQL
 <td width="50%" align="center">
 
 ### **Background Job System**
-RabbitMQ + Node Queue Processing.  
+RabbitMQ-based queue processing using Node.js.  
 Tech: Node.js • MongoDB  
 <a href="#"><img src="https://img.shields.io/badge/VIEW-PROJECT-purple?style=for-the-badge" /></a>
 
@@ -130,19 +147,40 @@ Tech: Node.js • MongoDB
 
 ---
 
-# 📌 Pinned Repositories  
+# 📌 Pinned Repository Cards  
+
+> ⚠️ Replace `Repo1` and `Repo2` with your real GitHub repo names.
 
 <p align="center">
-  <a href="https://github.com/viswanadhanbalu22"><img src="https://github-readme-stats.vercel.app/api/pin/?username=viswanadhanbalu22&repo=Repo1&theme=react" /></a>
-  <a href="https://github.com/viswanadhanbalu22"><img src="https://github-readme-stats.vercel.app/api/pin/?username=viswanadhanbalu22&repo=Repo2&theme=react" /></a>
+  <a href="https://github.com/viswanadhanbalu22/Repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viswanadhanbalu22&repo=Repo1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/viswanadhanbalu22/Repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viswanadhanbalu22&repo=Repo2&theme=tokyonight" />
+  </a>
 </p>
-
-*(Tell me your repo names — I'll replace Repo1/Repo2 with actual projects!)*
 
 ---
 
-# 🌙 Dark Mode – Auto Theme Support  
+# 🌙 Dark Mode Support  
+GitHub automatically shows your README in **Dark / Light mode** based on the user's settings.  
+No configuration needed — this README is fully dark-mode ready.
 
-```html
-<!-- GitHub automatically shows README in dark/light mode based on user settings -->
-<!-- No code needed → GitHub handles auto-switch -->
+---
+
+# 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viswanadhanbalu22&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viswanadhanbalu22&theme=tokyonight" height="160" />
+</p>
+
+---
+
+# 🌐 Connect With Me  
+📧 **viswanadhanbalu@gmail.com**  
+📍 Erode, Tamil Nadu  
+🔗 **LinkedIn:** https://www.linkedin.com/in/viswanadhanbalu22  
+
+---
+
+⭐ **If you like my work, please star my repositories!**
