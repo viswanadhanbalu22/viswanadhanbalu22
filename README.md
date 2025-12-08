@@ -58,7 +58,7 @@ Strong skills in **Angular, Node.js, Laravel, CakePHP, REST APIs, AWS S3, MongoD
 
 ---
 
-# 🧩 Featured Projects (Clean Version – No Links, No Images)
+# 🧩 Featured Projects
 
 ### ⭐ Diveshop360  
 Multi-tenant SaaS platform for dive shop operations.  
